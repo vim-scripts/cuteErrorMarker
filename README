@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2653
+
+Display a mark on lines which contain compilation errors listed on the quickfix window.
+
+Screenshots :
+http://img34.imageshack.us/gal.php?g=gvimsupercutennesswithk.png
+
+Tested on :
+- Ubuntu 9.04 (GVim && vim)
+- Windows XP/Vista/7
